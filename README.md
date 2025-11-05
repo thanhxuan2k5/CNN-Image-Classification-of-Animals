@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CNN Project - Animal image classification
 
 A Convolutional Neural Network (CNN) project for image classification, built with PyTorch.
@@ -231,3 +232,6 @@ class: elephant
 3. Make your changes
 4. Submit a pull request
 
+=======
+# Animal-image-classification
+>>>>>>> 120b54745375e9bb669b29018d69be90166a9ee0
