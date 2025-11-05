@@ -176,3 +176,4 @@ if __name__ == '__main__':
             torch.save(checkpoint, "{}/best.pt".format(args.trained_models))
             best_acc = accuracy
         # print(classification_report(all_labels, all_predictions))
+git remote add origin
