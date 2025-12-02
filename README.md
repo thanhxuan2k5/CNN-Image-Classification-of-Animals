@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # CNN Project - Animal image classification
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNN-Image-Classification-of-Animals&show_icons=true&theme=transparent)
+[![GitHub stars](https://img.shields.io/github/stars/uvipen/CNN-Image-Classification-of-Animals)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/uvipen/CNN-Image-Classification-of-Animals?color=orange)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/network)
+[![GitHub license](https://img.shields.io/github/license/uvipen/CNN-Image-Classification-of-Animals)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/blob/master/LICENSE)
 
 
 A Convolutional Neural Network (CNN) project for image classification, built with PyTorch.
