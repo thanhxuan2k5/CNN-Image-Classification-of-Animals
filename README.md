@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # CNN Project - Animal image classification
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhxuan2k5&repo=CNN-Animals-Classification&theme=radical" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanhxuan2k5&show_icons=true&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&bg_color=0d1117&border_color=39FF14&ring_color=39FF14" />
