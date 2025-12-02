@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # CNN Project - Animal image classification
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNN-Image-Classification-of-Animals&show_icons=true&theme=transparent)
+
 
 A Convolutional Neural Network (CNN) project for image classification, built with PyTorch.
 
