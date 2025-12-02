@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/uvipen/CNN-Image-Classification-of-Animals?color=orange)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/network)
 [![GitHub license](https://img.shields.io/github/license/uvipen/CNN-Image-Classification-of-Animals)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/blob/master/LICENSE)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NguyenThanhXuan
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CNN-Image-Classification-of-Animals
 &show_icons=true
 &title_color=39FF14
 &text_color=FFFFFF
