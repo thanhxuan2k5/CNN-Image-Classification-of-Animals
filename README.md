@@ -4,6 +4,16 @@
 [![GitHub forks](https://img.shields.io/github/forks/uvipen/CNN-Image-Classification-of-Animals?color=orange)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/network)
 [![GitHub license](https://img.shields.io/github/license/uvipen/CNN-Image-Classification-of-Animals)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/blob/master/LICENSE)
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NguyenThanhXuan
+&show_icons=true
+&title_color=39FF14
+&text_color=FFFFFF
+&icon_color=39FF14
+&bg_color=0d1117
+&border_color=39FF14
+&ring_color=39FF14" />
+
+
 
 A Convolutional Neural Network (CNN) project for image classification, built with PyTorch.
 
