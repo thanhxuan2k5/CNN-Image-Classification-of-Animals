@@ -1,18 +1,8 @@
 <<<<<<< HEAD
 # CNN Project - Animal image classification
-[![GitHub stars](https://img.shields.io/github/stars/uvipen/CNN-Image-Classification-of-Animals)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/uvipen/CNN-Image-Classification-of-Animals?color=orange)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/network)
-[![GitHub license](https://img.shields.io/github/license/uvipen/CNN-Image-Classification-of-Animals)](https://github.com/uvipen/CNN-Image-Classification-of-Animals/blob/master/LICENSE)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhxuan2k5&repo=CNN-Animals-Classification&theme=radical" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CNN-Image-Classification-of-Animals
-&show_icons=true
-&title_color=39FF14
-&text_color=FFFFFF
-&icon_color=39FF14
-&bg_color=0d1117
-&border_color=39FF14
-&ring_color=39FF14" />
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanhxuan2k5&show_icons=true&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&bg_color=0d1117&border_color=39FF14&ring_color=39FF14" />
 
 
 A Convolutional Neural Network (CNN) project for image classification, built with PyTorch.
